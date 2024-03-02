@@ -1,0 +1,9 @@
+.idea
+__py*
+venv
+*.js
+*.csv
+_*
+main.py
+test.py
+variables.py
